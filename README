@@ -1,0 +1,37 @@
+/*////////////////////////////////////////////////////////////////
+	WorldWordWeb server side
+	README
+	Date : 2011/03/27
+	Autor : YAMAGUCHI EIKICHI (twitter : @glasses_factory)
+	URL : http://glasses-factory.net
+/*////////////////////////////////////////////////////////////////
+
+2011/03/27 に開催された
+東京てら子 14 Google API
+で発表したデモの GAE 側のソースになります。
+
+AS側のソースは後ほど検討の上…
+
+実行するには依存している以下のライブラリ、フレームワークが必要になります。
+
+kay-framework
+http://code.google.com/p/kay-framework/
+
+tweepy
+https://github.com/joshthecoder/tweepy
+
+igo-python
+http://hideaki-t.blogspot.com/2010/11/igo-python.html
+http://pypi.python.org/pypi/igo-python/
+
+PyAMF
+http://www.pyamf.org/index.html
+
+/*==============================================
+ * 解説
+ *==============================================*/ 
+ 
+ 色々長くなるので徐々に記事を書いていきます。
+ 
+ 【1】経緯
+ http://blog.glasses-factory.net/
